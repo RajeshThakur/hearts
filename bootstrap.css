@@ -1,0 +1,177 @@
+
+#d1
+{  width:1400;
+   height:120;
+   background-color: #F2F2F2;
+}
+
+#ul1
+{	 
+	color:yellow;
+	font-family:ariel;
+	width:800;		
+}
+
+#n1
+{
+	position:absolute;
+	left:300;
+	top:70;	
+	width:740;
+    height:15;	
+}
+
+#icon
+{
+	position:absolute;
+	top:12;
+	left:130;	
+}
+
+#num
+{
+	position:absolute;
+	width:200;
+    top: 8 ;
+    height:;
+    left:410;   
+}
+
+#cntct
+{
+	position:absolute;
+	width:200;
+    top: 15;
+    height:;
+    left:540; 
+}
+
+#acntct
+{
+    color:black; 
+}
+
+#acntct:hover
+{
+	text-decoration:none;
+	
+}
+
+#srch1
+{
+	top:;
+	left:600;    	
+}
+
+#srch2
+{	
+    width:300;
+	top:10;
+	left:;	
+}
+#srchbtn
+{
+	width:50;
+	height:34;
+}
+
+#btngrp
+{   
+    position:absolute;
+	width:500;
+    top:10;
+    left:920;			
+}
+
+#lgn_btn
+{
+	width:130;
+	font-size:15px;
+	font-family:verdana;
+}
+
+#trl_btn
+{
+	width:130;
+	font-size:15px;
+	font-family:verdana;
+	border-radius:none;		
+}
+
+
+#mid
+{
+   width:1400;
+   height:500;
+   background-color: none;
+}
+
+#mid_left
+{
+   position:absolute;
+   width:200;
+   height:500;
+   top:120;
+   left:50;
+   background-color: rgba(255, 255, 255, 0.6);   
+}
+	
+#mid_right
+{
+	position:absolute;
+	width:500;
+	height:300;
+	top:200;
+	left:700;
+	background-color:none;
+}
+
+#ul2
+{
+	color:grey;
+	
+}
+
+.mid_left
+{
+	color:gray; 
+	left:10;
+	width:50;
+	height:;
+	
+}
+
+.mid_gly
+{
+	color:blue; 
+	left:;
+	font-size:x-large;
+}
+.mid_left_panel
+{
+	width:200;
+	color: rgba(0, 0, 0, 0.6);
+	font-size:large;
+	font-family:verdana;
+	
+}
+
+.mid_left_btn
+{
+	background-color: none;
+	color: rgba(0, 0, 0, 0.6);
+	
+}
+
+#lower_section
+{
+	position:absolute;
+	width:1400;
+    height:500;
+	top:650;
+	left:;
+    background-color: none;
+	
+	
+}
+	

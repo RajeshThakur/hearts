@@ -1,0 +1,448 @@
+#id1
+{
+	position:absolute;
+	/* left:300; */
+	
+	width:1280;
+	height:720;
+	/* background-color:yellow; */
+}
+
+
+#c1
+{
+	position:absolute;
+	left:600;
+	top:250;
+	background: gray;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+	animation-name:c1;
+	animation-duration: 1s;
+   -webkit-animation-iteration-count: infinite;
+   -webkit-animation-fill-mode:forwards;
+	animation-direction:alternate; 
+	
+}
+
+#c2
+{
+	position:absolute;
+	left:600;
+	top:250;
+	background: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+	animation-name:c2;
+	animation-duration: 1s;
+   -webkit-animation-iteration-count: infinite;
+   -webkit-animation-fill-mode:forwards;
+	animation-direction:alternate; 
+	
+}
+
+#c3
+{
+	position:absolute;
+	left:600;
+	top:250;
+	background: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+	animation-name:c3;
+	animation-duration: 1s;
+   -webkit-animation-iteration-count: infinite;
+   -webkit-animation-fill-mode:forwards;
+	animation-direction:alternate; 
+	
+}
+#c4
+{
+	position:absolute;
+	left:600;
+	top:250;
+	background: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+	animation-name:c4;
+	animation-duration: 1s;
+   -webkit-animation-iteration-count: infinite;
+   -webkit-animation-fill-mode:forwards;
+	animation-direction:alternate; 
+	
+}
+#c5
+{
+	position:absolute;
+	left:600;
+	top:250;
+	background: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+	animation-name:c5;
+	animation-duration: 1s;
+   -webkit-animation-iteration-count: infinite;
+   -webkit-animation-fill-mode:forwards;
+	animation-direction:alternate; 
+	
+}
+#c6
+{
+	position:absolute;
+	left:600;
+	top:250;
+	background: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+	animation-name:c6;
+	animation-duration: 1s;
+   -webkit-animation-iteration-count: infinite;
+   -webkit-animation-fill-mode:forwards;
+	animation-direction:alternate; 
+	
+}
+
+#c7
+{
+	position:absolute;
+	left:600;
+	top:250;
+	background: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+	animation-name:c7;
+	animation-duration: 1s;
+   -webkit-animation-iteration-count: infinite;
+   -webkit-animation-fill-mode:normal;
+	animation-direction:alternate; 
+	
+}
+
+#c8
+{
+	position:absolute;
+	left:600;
+	top:250;
+	background: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+	animation-name:c8;
+	animation-duration: 1s;
+   -webkit-animation-iteration-count: infinite;
+   -webkit-animation-fill-mode:forwards;
+	animation-direction:alternate; 
+	
+}
+
+#c9
+{
+	position:absolute;
+	left:600;
+	top:250;
+	background: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+	animation-name:c9;
+	animation-duration: 1s;
+   -webkit-animation-iteration-count: infinite;
+   -webkit-animation-fill-mode:forwards;
+	animation-direction:alternate; 
+	
+}
+
+#c10
+{
+	position:absolute;
+	left:600;
+	top:250;
+	background: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+	animation-name:c10;
+	animation-duration: 1s;
+   -webkit-animation-iteration-count: infinite;
+   -webkit-animation-fill-mode:forwards;
+	animation-direction:alternate; 
+	
+}
+
+#c11
+{
+	position:absolute;
+	left:600;
+	top:250;
+	background: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+	animation-name:c11;
+	animation-duration: 1s;
+   -webkit-animation-iteration-count: infinite;
+   -webkit-animation-fill-mode:forwards;
+	animation-direction:alternate; 
+	
+}
+
+#c12
+{
+	position:absolute;
+	left:600;
+	top:250;
+	background: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+	animation-name:c12;
+	animation-duration: 1s;
+   -webkit-animation-iteration-count: infinite;
+   -webkit-animation-fill-mode:forwards;
+	animation-direction:alternate; 
+	
+}
+
+#c13
+{
+	position:absolute;
+	left:600;
+	top:250;
+	background: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+	animation-name:c13;
+	animation-duration: 1s;
+   -webkit-animation-iteration-count: infinite;
+   -webkit-animation-fill-mode:forwards;
+	animation-direction:alternate;  
+	
+}
+
+#c14
+{
+	position:absolute;
+	left:600;
+	top:250;
+	background: gray;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+	animation-name:c14;
+	animation-duration: 1s;
+   -webkit-animation-iteration-count: infinite;
+   -webkit-animation-fill-mode:forwards;
+	animation-direction:alternate; 
+	
+}
+
+#c15
+{
+	position:absolute;
+	left:600;
+	top:250;
+	background: gray;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+	animation-name:c15;
+	animation-duration: 1s;
+   -webkit-animation-iteration-count: infinite;
+   -webkit-animation-fill-mode:forwards;
+	animation-direction:alternate; 
+	
+}
+
+#c16
+{
+	position:absolute;
+	left:600;
+	top:250;
+	background: gray;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+	animation-name:c16;
+	animation-duration: 1s;
+   -webkit-animation-iteration-count: infinite;
+   -webkit-animation-fill-mode:forwards;
+	animation-direction:alternate; 
+	
+}
+
+#c17
+{
+	position:absolute;
+	left:600;
+	top:250;
+	background: gray;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+	animation-name:c17;
+	animation-duration: 1s;
+   -webkit-animation-iteration-count: infinite;
+   -webkit-animation-fill-mode:forwards;
+	animation-direction:alternate; 
+	
+}
+
+@keyframes c1
+    {
+		0%  {background-color: pink;   left:600; top:150;}
+		25%  {background-color: #FF00FF;}
+		50%  {background-color: #FF2A7F;}
+		100% {background-color: red; left:600; top:150;}
+		
+	}
+
+ @keyframes c2
+    {
+		0%  {background-color: pink;   left:600; top:150;}
+		25%  {background-color: #FF00FF;}
+		50%  {background-color: #FF2A7F;}
+		100% {background-color: red; left:500; top:100;}
+	} 
+
+ @keyframes c3
+    {
+		0%  {background-color: pink;   left:600; top:150;}
+		25%  {background-color: #FF00FF;}
+		50%  {background-color: #7F7FFF;}
+		100% {background-color: red; left:400; top:100;}
+	}
+
+@keyframes c4
+    {
+		0%  {background-color: pink;   left:600; top:150;}
+		25%  {background-color: #FF00FF;}
+		50%  {background-color: #FF2A7F;}
+		100% {background-color: red; left:300; top:150;}
+		
+	}
+
+@keyframes c5
+    {
+		0%  {background-color: pink;   left:600; top:150;}
+		25%  {background-color: #FF00FF;}
+		50%  {background-color: #7F7FFF;}
+		100% {background-color: red; left:250; top:250;}
+		
+	}
+	
+@keyframes c6
+    {
+		0%  {background-color: pink;   left:600; top:150;}
+		25%  {background-color: #FF00FF;}
+		50%  {background-color: #FF2A7F;}
+		100% {background-color: red; left:300; top:350;}
+		
+	}
+
+@keyframes c7
+    {
+		0%  {background-color: pink;   left:600; top:150;}
+		25%  {background-color: #FF00FF;}
+		50%  {background-color: #7F7FFF;}
+		100% {background-color: red; left:400; top:400;}
+		
+	}
+	
+@keyframes c8
+    {
+		0%  {background-color: pink;   left:600; top:150;}
+		25%  {background-color: #FF00FF;}
+		50%  {background-color: #FF2A7F;}
+		100% {background-color: red; left:500; top:450;}
+		
+	}	
+
+@keyframes c9
+    {
+		0%  {background-color: pink;   left:600; top:150;}
+		25%  {background-color: #FF00FF;}
+		50%  {background-color: #7F7FFF;}
+		100% {background-color: red; left:600; top:500;}
+		
+	}	
+	
+@keyframes c10
+    {
+		0%  {background-color: pink;   left:600; top:150;}
+		25%  {background-color: #FF00FF;}
+		50%  {background-color: #FF2A7F;}
+		100% {background-color: red; left:700; top:450;}
+		
+	}	
+	
+@keyframes c11
+    {
+		0%  {background-color: pink;   left:600; top:150;}
+		25%  {background-color: #FF00FF;}
+		50%  {background-color: #7F7FFF;}
+		100% {background-color: red; left:800; top:400;}
+		
+	}	
+	
+@keyframes c12
+    {
+		0%  {background-color: pink;   left:600; top:150;}
+		25%  {background-color: #FF00FF;}
+		50%  {background-color: #FF2A7F;}
+		100% {background-color: red; left:900; top:350;}
+		
+	}	
+	
+@keyframes c13
+    {
+		0%  {background-color: pink;   left:600; top:150;}
+		25%  {background-color: #FF00FF;}
+		50%  {background-color: #7F7FFF;}
+		100% {background-color: red; left:950; top:250;}
+		
+	} 
+	
+@keyframes c14
+    {
+		0%  {background-color: pink;   left:600; top:150;}
+		25%  {background-color: #FF00FF;}
+		50%  {background-color: #FF2A7F;}
+		100% {background-color: red; left:900; top:150;}
+		
+	}
+
+	
+@keyframes c15
+    {
+		0%  {background-color: pink;   left:600; top:150;}
+		25%  {background-color: #FF00FF;}
+		50%  {background-color: #7F7FFF;}
+		100% {background-color: red; left:900; top:150;}
+		
+	}
+	
+@keyframes c16
+    {
+		0%  {background-color: pink;   left:600; top:150;}
+		25%  {background-color: #FF00FF;}
+		50%  {background-color: #FF2A7F;}
+		100% {background-color: red; left:800; top:100;}
+	}
+	
+ @keyframes c17
+    {
+		0%  {background-color: pink;   left:600; top:150;}
+		25%  {background-color: #FF00FF;}
+		50%  {background-color: #7F7FFF;}
+		100% {background-color: red; left:700; top:100;}
+	} 
+
+	
